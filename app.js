@@ -1,4 +1,4 @@
-//  
+//
 // var skillsReq = "HTML/CSS";
 // var eduReq = "BSCS";
 // var cityReq = "karachi";
@@ -17,10 +17,10 @@
 //      }
 // } else {
 //     alert ("sikh ky ao...")
- 
-
 
 // var studends = [["sara","saima"] , ["sareen",["farooq"]]]
 // console.log(studends[1][1][0][3]);
 
-
+var student = ["Ahmed", "Faizan", "Asim"];
+var teacher = ["Zafar", "Shakeel", "Akash"];
+console.log(student);
